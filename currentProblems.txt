@@ -1,3 +1,2 @@
 AMC10:
 2000: Problem 8
-
