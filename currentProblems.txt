@@ -1,2 +1,2 @@
 AMC10:
-2000: Problem 8
+2000: Problem 13
