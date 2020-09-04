@@ -1,2 +1,2 @@
 AMC10:
-2001: Problem 8
+2001: Problem 10
