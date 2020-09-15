@@ -1,2 +1,2 @@
 AMC10:
-2001: Problem 22
+2001: Finished
