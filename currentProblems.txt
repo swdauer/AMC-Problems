@@ -1,4 +1,4 @@
 AMC10:
 2001: Finished
 2002A: Finished
-2002B: 23
+2002B: Finished
